@@ -1,0 +1,27 @@
+.title1{
+    text-align: center;
+}
+.title2{
+    width: 250px;
+    height: 500px;
+    margin-left: 100px;}
+.title3{
+    width: 200px;
+    height: 100px;
+}
+.content{
+    display: flex;
+}
+.no6{
+    display:flex;
+}
+.title5{
+    width: 100px;
+    height: 100px;
+}
+.no7{
+    display:flex
+}
+.title4{
+    height: 100px;
+}
